@@ -1,2 +1,2 @@
 # Memo
-Memo SPA with Vanilla JavaScript
+Memo for Programming Study
